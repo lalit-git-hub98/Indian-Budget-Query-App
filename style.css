@@ -1,0 +1,16 @@
+* {
+    background-color: #9d6381;
+    padding: 0;
+}
+
+[data-testid=stImage]  {  
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+[data-testid=stHeader] {
+    background-color: #9d6381;
+}
